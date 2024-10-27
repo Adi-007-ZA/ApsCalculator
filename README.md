@@ -1,0 +1,1 @@
+This is program is used to calculate the Admission Point Score for three South African universities - being the University of Pretoria, the University of Cape Town, and the University of Witwaterstrand.
